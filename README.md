@@ -98,6 +98,7 @@ If you want to see an example, I've created my own [react-app-scaffolding](https
 - [Building a React/Redux App with JSON Web Token (JWT) Authentication](http://blog.slatepeak.com/build-a-react-redux-app-with-json-web-token-jwt-authentication/)
 - [Securing React Redux Apps With JWT Tokens](https://medium.com/@rajaraodv/securing-react-redux-apps-with-jwt-tokens-fcfe81356ea0)
 ### Misc articles and other resources
+- [Higher-Order Components](https://facebook.github.io/react/docs/higher-order-components.html)
 - [Navigating the React.JS Ecosystem](https://www.toptal.com/react/navigating-the-react-ecosystem)
 - [10 React mini-patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5)
 

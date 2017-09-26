@@ -54,8 +54,8 @@ You've already been using Node.js behind the scenes in most of these tools. If y
 ## Part 6: Testing
 - [Getting Started with Jest](https://facebook.github.io/jest/docs/en/getting-started.html) - Delightful JavaScript Testing
 - Testing React components with [Enzyme](https://github.com/airbnb/enzyme#enzyme)
-- [ReactTestUtils](https://facebook.github.io/react/docs/test-utils.html), testing React components in the DOM
-- Redux testing tips (actions/async actions, reducers, containers, and middleware): http://redux.js.org/docs/recipes/WritingTests.html 
+- [ReactTestUtils](https://facebook.github.io/react/docs/test-utils.html) - Testing React components in the DOM
+- [Redux testing tips](http://redux.js.org/docs/recipes/WritingTests.html) (actions/async actions, reducers, containers, and middleware)
 - [Testing Reselect](https://github.com/reactjs/reselect#q-how-do-i-test-a-selector)
 
 ## Part 7: Putting it all together

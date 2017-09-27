@@ -43,6 +43,7 @@ I originally wrote this guide for onboarding new employees into the react/redux/
 - [Install Webpack](https://webpack.js.org/guides/installation/) in one of your projects, or a new project.
 - Read about configuring [Webpack Dev Server](https://webpack.js.org/configuration/dev-server/)
 - Read about [Hot Module Replacement](https://webpack.js.org/guides/hot-module-replacement/)
+- [Webpack loaders and plugins](https://hackernoon.com/webpack-loaders-and-plugins-for-your-new-progressive-web-app-378e09f469)
 
 ## Part 5: Node.js
 You've already been using Node.js behind the scenes in most of these tools. If you want to create your own back end to serve your application, look into Express:
@@ -101,6 +102,11 @@ If you want to see an example, I've created my own [react-app-scaffolding](https
 - [Higher-Order Components](https://facebook.github.io/react/docs/higher-order-components.html)
 - [Navigating the React.JS Ecosystem](https://www.toptal.com/react/navigating-the-react-ecosystem)
 - [10 React mini-patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5)
+
+### UI Resources
+- [Blueprint.js](http://blueprintjs.com/docs/) - a fantastic collection of customizable UI Components, Icons, and more.
+- [Rethinking drag and drop](https://medium.com/@alexandereardon/rethinking-drag-and-drop-d9f5770b4e6b)
+- [Styled Components](https://www.styled-components.com/) - Use the best bits of ES6 and CSS to style your apps without stress.
 
 
 

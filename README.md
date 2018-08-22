@@ -39,8 +39,8 @@ I originally wrote this guide for onboarding new employees into the react/redux/
 - Want to become more efficient with Redux? [Learn about Reselect](https://github.com/reactjs/reselect#reselect)
 - Building a large application? Learn [The Duck Pattern](https://github.com/erikras/ducks-modular-redux#ducks-redux-reducer-bundles)
 
-## Part 4: Webpack 2
-- Learn about the [Webpack 2 Concepts](https://webpack.js.org/concepts/) 
+## Part 4: Webpack
+- Learn about the [Webpack Concepts](https://webpack.js.org/concepts/) 
 - [Install Webpack](https://webpack.js.org/guides/installation/) in one of your projects, or a new project.
 - Read about configuring [Webpack Dev Server](https://webpack.js.org/configuration/dev-server/)
 - Read about [Hot Module Replacement](https://webpack.js.org/guides/hot-module-replacement/)

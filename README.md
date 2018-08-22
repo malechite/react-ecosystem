@@ -27,6 +27,7 @@ I originally wrote this guide for onboarding new employees into the react/redux/
 - [React Lifecycle Methods](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1) - how and when to use them
 - Learn about [5 Types of React Application State](http://jamesknelson.com/5-types-react-application-state/)
 - [8 things to learn in React before using Redux](https://www.robinwieruch.de/learn-react-before-using-redux/)
+- Check out the [React Context API](https://reactjs.org/docs/context.html#when-to-use-context) before you decide to jump into Redux
 
 ## Part 3: Redux
 - If you want to understand where the idea came from, [watch the Flux presentation](https://www.youtube.com/watch?v=nYkdrAPrdcw)

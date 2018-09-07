@@ -95,6 +95,8 @@ If you want to see an example, I've created my own [react-app-scaffolding](https
 ### Code Splitting
 - [Webpack: Code Splitting by Routes](https://medium.com/@puppybits/webpack-code-splitting-by-routes-92f96cf733f2)
 - [React Router 4 code splitting w/ RxJS & Webpack](https://medium.com/@luigiplr/react-redux-react-router-4-code-splitting-w-rxjs-webpack-32eabedf0e9)
+### TypeScript
+- [A Strictly typed superset of JavaScript](https://www.typescriptlang.org/docs/home.html)
 ### JWT
 - [Secure Your React and Redux App with JWT Authentication](https://auth0.com/blog/secure-your-react-and-redux-app-with-jwt-authentication/) - by Auth0
 - [Building a React/Redux App with JSON Web Token (JWT) Authentication](http://blog.slatepeak.com/build-a-react-redux-app-with-json-web-token-jwt-authentication/)

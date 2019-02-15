@@ -6,7 +6,7 @@ This guide assumes you already have a good understanding of JavaScript, HTML, an
 I originally wrote this guide for onboarding new employees into the react/redux/webpack ecosystem, and split it up into parts... You should go through each of these resources and be sure to split the parts up into days or multiple days so you don't get information overload. Afterwards, you might want to go even further and learn about Immutable, Flow, Nuclide, Atom-IDE
 
 - Recommended Browser: Chrome (has many useful react and redux dev tools)
-- Recommended Editor: [Atom](https://atom.io/)
+- Recommended Editor: [VS Code](https://code.visualstudio.com/)
 
 
 ## Part 1: ECMASCRIPT 2015
